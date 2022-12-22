@@ -1,0 +1,1001 @@
+sample_id	tissue
+GTEX-XUZC-1626-SM-4BRVP	Breast - Mammary Tissue
+GTEX-X15G-1426-SM-4PQZK	Small Intestine - Terminal Ileum
+GTEX-1IDJC-0226-SM-CMKG2	Adipose - Visceral (Omentum)
+GTEX-15DCD-0226-SM-6LPKC	Adipose - Subcutaneous
+GTEX-16XZZ-0126-SM-793DV	Skin - Sun Exposed (Lower leg)
+GTEX-18A7A-1826-SM-7KFTU	Adrenal Gland
+GTEX-15SHU-3026-SM-6LPIB	Brain - Cerebellum
+GTEX-OIZI-0126-SM-3NB13	Testis
+GTEX-Y5V5-2326-SM-4V6GA	Skin - Sun Exposed (Lower leg)
+GTEX-XQ8I-0926-SM-4BOOF	Skin - Not Sun Exposed (Suprapubic)
+GTEX-NPJ7-2826-SM-2I3FU	Brain - Cerebellum
+GTEX-14PJ4-0726-SM-6872E	Pancreas
+GTEX-145LV-2526-SM-5S2VA	Nerve - Tibial
+GTEX-1JMQL-1426-SM-CL54J	Esophagus - Muscularis
+GTEX-1IKK5-0011-R5b-SM-CL55B	Brain - Caudate (basal ganglia)
+GTEX-PW2O-1226-SM-48TCH	Stomach
+GTEX-1KANB-0326-SM-D4P3H	Nerve - Tibial
+GTEX-13D11-0826-SM-5KLZJ	Colon - Transverse
+GTEX-14JG6-0326-SM-6AJBT	Lung
+GTEX-1I4MK-0726-SM-ACKWC	Adipose - Visceral (Omentum)
+GTEX-132NY-2726-SM-5PNY2	Colon - Sigmoid
+GTEX-12696-2626-SM-5EQ44	Nerve - Tibial
+GTEX-13RTJ-0726-SM-5QGQN	Heart - Left Ventricle
+GTEX-17HHE-0426-SM-79OK3	Thyroid
+GTEX-1RLM8-0926-SM-EWROD	Esophagus - Gastroesophageal Junction
+GTEX-15ER7-2026-SM-793B8	Artery - Aorta
+GTEX-12ZZY-1126-SM-5DUWQ	Heart - Left Ventricle
+GTEX-V1D1-0226-SM-4JBHG	Adrenal Gland
+GTEX-14PII-0226-SM-6EU1T	Skin - Sun Exposed (Lower leg)
+GTEX-12BJ1-1626-SM-5HL8Y	Esophagus - Mucosa
+GTEX-18A67-2526-SM-7LG5Z	Esophagus - Gastroesophageal Junction
+GTEX-16AAH-0926-SM-7939B	Esophagus - Muscularis
+GTEX-1A3MX-0126-SM-731BR	Skin - Sun Exposed (Lower leg)
+GTEX-X4EO-0126-SM-3P5YN	Nerve - Tibial
+GTEX-YF7O-0926-SM-5IFIF	Esophagus - Mucosa
+GTEX-1HCU7-2226-SM-B2LXA	Esophagus - Muscularis
+GTEX-REY6-0126-SM-48FDT	Testis
+GTEX-1B8L1-3126-SM-7EPHA	Pituitary
+GTEX-TSE9-2626-SM-4DXV2	Uterus
+GTEX-1JMPY-0526-SM-CL54O	Breast - Mammary Tissue
+GTEX-12WSA-0011-R7b-SM-5GU5U	Brain - Putamen (basal ganglia)
+GTEX-1F75W-0011-R10b-SM-ARU7Z	Brain - Frontal Cortex (BA9)
+GTEX-1JK1U-2026-SM-CM2RZ	Skin - Sun Exposed (Lower leg)
+GTEX-1CB4E-0008-SM-EXURD	Cells - Cultured fibroblasts
+GTEX-131XH-0011-R1a-SM-5DUWA	Brain - Hippocampus
+GTEX-N7MS-1126-SM-3LK5E	Esophagus - Muscularis
+GTEX-1AX8Z-0008-SM-EVYAW	Cells - Cultured fibroblasts
+GTEX-VJYA-0626-SM-4KL1S	Esophagus - Muscularis
+GTEX-XUW1-0426-SM-4BOOT	Skin - Sun Exposed (Lower leg)
+GTEX-15RIF-1326-SM-6LPKO	Colon - Transverse
+GTEX-144GL-2526-SM-5TDDL	Colon - Transverse
+GTEX-16Z82-0011-R7a-SM-7MKGJ	Brain - Putamen (basal ganglia)
+GTEX-ZAB4-2126-SM-5HL8U	Skin - Not Sun Exposed (Suprapubic)
+GTEX-11VI4-1926-SM-5CVLI	Muscle - Skeletal
+GTEX-S32W-2526-SM-2XCB8	Nerve - Tibial
+GTEX-1HCU9-0426-SM-9WYSD	Skin - Not Sun Exposed (Suprapubic)
+GTEX-144GL-0226-SM-5QGOX	Adipose - Subcutaneous
+GTEX-17HHY-0006-SM-7MXT4	Whole Blood
+GTEX-1H3O1-0011-R3a-SM-ACKVD	Brain - Anterior cingulate cortex (BA24)
+GTEX-1NUQO-0726-SM-E9J3K	Muscle - Skeletal
+GTEX-1H3VE-0011-R5a-SM-CKZOU	Brain - Caudate (basal ganglia)
+GTEX-17HHE-1026-SM-79ON6	Stomach
+GTEX-1RAZS-2526-SM-E6CHT	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GF9V-1526-SM-7PC3E	Artery - Aorta
+GTEX-1C64O-1026-SM-7PC3L	Artery - Aorta
+GTEX-13FH7-2226-SM-5IJD4	Adipose - Subcutaneous
+GTEX-14BIM-0011-R2b-SM-69LQ6	Brain - Substantia nigra
+GTEX-YFC4-0011-R1a-SM-4V6EH	Brain - Hippocampus
+GTEX-13IVO-0726-SM-5LZYV	Skin - Not Sun Exposed (Suprapubic)
+GTEX-SNMC-0126-SM-2XCFO	Heart - Left Ventricle
+GTEX-1HCVE-2526-SM-A9G2G	Colon - Transverse
+GTEX-1IL2V-0226-SM-CMKI2	Adipose - Subcutaneous
+GTEX-11EM3-2226-SM-5H11Y	Artery - Tibial
+GTEX-14E1K-0426-SM-5S2PF	Adipose - Visceral (Omentum)
+GTEX-1HBPH-1126-SM-A96TU	Esophagus - Mucosa
+GTEX-ZT9X-0126-SM-4YCFC	Adrenal Gland
+GTEX-1OFPY-1126-SM-E8VNV	Artery - Coronary
+GTEX-Y3IK-0826-SM-51MT8	Heart - Left Ventricle
+GTEX-11GS4-2626-SM-5A5LD	Adipose - Subcutaneous
+GTEX-S33H-0826-SM-4AD5Y	Esophagus - Mucosa
+GTEX-ZPU1-1626-SM-4WWB2	Stomach
+GTEX-145MF-0426-SM-5LU9T	Artery - Tibial
+GTEX-1ICLY-0326-SM-ARL7S	Muscle - Skeletal
+GTEX-OOBJ-2026-SM-3NB1R	Prostate
+GTEX-169BO-0526-SM-793AK	Esophagus - Mucosa
+GTEX-1HGF4-0011-R9a-SM-ADEH9	Brain - Spinal cord (cervical c-1)
+GTEX-1192X-1526-SM-5H11I	Adipose - Visceral (Omentum)
+GTEX-X4EO-0006-SM-3P5ZF	Whole Blood
+GTEX-ZDYS-2126-SM-5S2P2	Adipose - Subcutaneous
+GTEX-1S3DN-2226-SM-EVYCD	Skin - Sun Exposed (Lower leg)
+GTEX-17EUY-0426-SM-793BD	Skin - Sun Exposed (Lower leg)
+GTEX-183FY-1026-SM-7939A	Skin - Not Sun Exposed (Suprapubic)
+GTEX-15CHC-0226-SM-5YYBB	Lung
+GTEX-11TT1-1126-SM-5P9GV	Thyroid
+GTEX-1CB4G-0008-SM-EXURF	Cells - Cultured fibroblasts
+GTEX-1LSNL-0426-SM-DIPFH	Nerve - Tibial
+GTEX-RWS6-0426-SM-47JXH	Artery - Coronary
+GTEX-14PN4-1426-SM-6LLJ4	Adipose - Visceral (Omentum)
+GTEX-13O3Q-0011-R10b-SM-5KM39	Brain - Frontal Cortex (BA9)
+GTEX-13CF2-2426-SM-5LZYL	Minor Salivary Gland
+GTEX-1B97I-0126-SM-731DH	Spleen
+GTEX-1K9T9-1726-SM-CXZK1	Pancreas
+GTEX-1399U-0926-SM-5IFHA	Pancreas
+GTEX-1I6K7-1526-SM-A96SX	Esophagus - Muscularis
+GTEX-O5YT-1426-SM-3MJHC	Colon - Transverse
+GTEX-13W3W-2526-SM-5SI9P	Adipose - Subcutaneous
+GTEX-1IE54-0926-SM-A9G2Y	Thyroid
+GTEX-13FLV-0011-R11a-SM-5LZZ7	Brain - Cerebellar Hemisphere
+GTEX-13X6H-1426-SM-5SI91	Esophagus - Muscularis
+GTEX-1LVAN-2126-SM-CNPQ8	Esophagus - Gastroesophageal Junction
+GTEX-14PKV-1926-SM-686YU	Colon - Sigmoid
+GTEX-147F3-0726-SM-5NQ9U	Lung
+GTEX-O5YT-0008-SM-4E3IQ	Cells - Cultured fibroblasts
+GTEX-1J8EW-1626-SM-C1YQ8	Liver
+GTEX-11EQ9-2126-SM-5PNVW	Muscle - Skeletal
+GTEX-ZLV1-0626-SM-4WWF6	Esophagus - Muscularis
+GTEX-1I1CD-3026-SM-B2LY2	Brain - Cortex
+GTEX-1RAZQ-1126-SM-EAZ4S	Testis
+GTEX-12ZZY-0926-SM-5EQ6I	Lung
+GTEX-15ETS-2326-SM-7KUGC	Colon - Sigmoid
+GTEX-Y114-1926-SM-4TT8J	Vagina
+GTEX-1HFI7-1326-SM-9WPOW	Esophagus - Muscularis
+GTEX-XMK1-1026-SM-4B65H	Prostate
+GTEX-1RAZA-1026-SM-E6CQ9	Spleen
+GTEX-1QPFJ-2126-SM-EXOJV	Adipose - Visceral (Omentum)
+GTEX-1PPGY-1826-SM-EXOJ8	Lung
+GTEX-ZUA1-0011-R5b-SM-51MTG	Brain - Caudate (basal ganglia)
+GTEX-1LSNL-2726-SM-E9TKJ	Skin - Not Sun Exposed (Suprapubic)
+GTEX-WQUQ-0126-SM-4OOSS	Adrenal Gland
+GTEX-QEG4-1126-SM-2S1P7	Nerve - Tibial
+GTEX-1I19N-1826-SM-CGQFJ	Nerve - Tibial
+GTEX-13JVG-0526-SM-5IJBN	Nerve - Tibial
+GTEX-QESD-1726-SM-2S1R7	Nerve - Tibial
+GTEX-11DYG-0011-R11a-SM-DNZZP	Brain - Cerebellar Hemisphere
+GTEX-1JMQL-2326-SM-CNNPV	Vagina
+GTEX-1GN1U-2126-SM-AHZ4J	Kidney - Cortex
+GTEX-17HII-2726-SM-7MGVM	Colon - Transverse
+GTEX-1HSKV-0011-R1b-SM-CMKH7	Brain - Hippocampus
+GTEX-WH7G-0005-SM-3NMBX	Whole Blood
+GTEX-18D9A-2026-SM-718BL	Adipose - Subcutaneous
+GTEX-1IDJF-2226-SM-AHZ2T	Testis
+GTEX-T6MO-2026-SM-33HB4	Nerve - Tibial
+GTEX-11WQK-1026-SM-5EQLX	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H1ZS-0011-R7a-SM-CL54P	Brain - Putamen (basal ganglia)
+GTEX-1B8L1-3026-SM-7EPHK	Brain - Cortex
+GTEX-1IL2U-0626-SM-CE6TA	Artery - Tibial
+GTEX-1HSMO-2326-SM-CGQF3	Prostate
+GTEX-1PBJI-0726-SM-EXUSQ	Thyroid
+GTEX-1I1GS-2626-SM-B2LY3	Skin - Not Sun Exposed (Suprapubic)
+GTEX-12WSC-0226-SM-5EQ52	Adipose - Subcutaneous
+GTEX-1LG7Z-0626-SM-D3LA2	Artery - Aorta
+GTEX-1JJ6O-2726-SM-CNPOG	Skin - Not Sun Exposed (Suprapubic)
+GTEX-RTLS-2426-SM-46MUO	Uterus
+GTEX-1JKYN-0226-SM-ARL9H	Artery - Aorta
+GTEX-1GMR8-0326-SM-9KNUO	Muscle - Skeletal
+GTEX-T2YK-0326-SM-4DM7D	Nerve - Tibial
+GTEX-11WQK-0526-SM-5EQLD	Skin - Sun Exposed (Lower leg)
+GTEX-11TT1-2726-SM-5LU8L	Artery - Tibial
+GTEX-1H1DG-2026-SM-9QEIV	Adipose - Visceral (Omentum)
+GTEX-1399T-2826-SM-5KLYZ	Skin - Sun Exposed (Lower leg)
+GTEX-1KXAM-2026-SM-DHXKI	Small Intestine - Terminal Ileum
+GTEX-1F48J-0226-SM-7SB82	Adipose - Subcutaneous
+GTEX-1I1HK-0005-SM-ARZL8	Whole Blood
+GTEX-111VG-2226-SM-5N9DU	Colon - Transverse
+GTEX-1IDJD-2526-SM-C1YSA	Minor Salivary Gland
+GTEX-WHSE-3126-SM-3P5ZI	Pituitary
+GTEX-1PDJ9-0726-SM-E8VMH	Nerve - Tibial
+GTEX-1J8JJ-2426-SM-D4P4A	Colon - Sigmoid
+GTEX-14C5O-0011-R6a-SM-5YYB6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WY7C-0226-SM-3NB37	Thyroid
+GTEX-14C5O-0011-R1b-SM-6AJBW	Brain - Hippocampus
+GTEX-11EQ9-1526-SM-5PNY7	Colon - Sigmoid
+GTEX-1H3VE-0011-R10b-SM-A9SKC	Brain - Frontal Cortex (BA9)
+GTEX-1I1GQ-0826-SM-CNNQR	Thyroid
+GTEX-13OVJ-2426-SM-5KM3I	Ovary
+GTEX-YECK-0426-SM-4W1Z5	Nerve - Tibial
+GTEX-1H23P-0005-SM-A9G14	Whole Blood
+GTEX-147F3-0826-SM-5NQA7	Esophagus - Mucosa
+GTEX-1I4MK-2326-SM-ADEHR	Muscle - Skeletal
+GTEX-RTLS-1326-SM-46MUN	Liver
+GTEX-16MTA-1426-SM-6PALY	Prostate
+GTEX-11DXX-1526-SM-5H115	Uterus
+GTEX-ZF28-0005-SM-4WKH3	Whole Blood
+GTEX-ZYW4-1626-SM-5GIE6	Esophagus - Gastroesophageal Junction
+GTEX-1LB8K-1526-SM-E9U58	Esophagus - Gastroesophageal Junction
+GTEX-1EX96-0011-R4a-SM-ARU82	Brain - Amygdala
+GTEX-Z93S-2826-SM-57WBL	Brain - Cerebellum
+GTEX-1314G-2026-SM-5LZUM	Minor Salivary Gland
+GTEX-14LLW-0626-SM-62LFC	Breast - Mammary Tissue
+GTEX-1PDJ9-1726-SM-E8VMG	Esophagus - Muscularis
+GTEX-1HBPN-0326-SM-9WYS9	Nerve - Tibial
+GTEX-XXEK-1326-SM-4BRV1	Thyroid
+GTEX-XYKS-0926-SM-4BRVG	Adrenal Gland
+GTEX-1CB4G-0526-SM-7P8SY	Artery - Tibial
+GTEX-18464-0011-R9a-SM-731BK	Brain - Spinal cord (cervical c-1)
+GTEX-117XS-2226-SM-5GIE1	Colon - Sigmoid
+GTEX-XUZC-2026-SM-4BRW9	Artery - Tibial
+GTEX-1JMLX-2926-SM-CL54C	Brain - Cortex
+GTEX-1K2DU-1026-SM-DHXKC	Pancreas
+GTEX-1J1OQ-2526-SM-AHZ3Q	Esophagus - Mucosa
+GTEX-18A6Q-0126-SM-731BZ	Skin - Sun Exposed (Lower leg)
+GTEX-18A7B-0526-SM-7LG68	Artery - Tibial
+GTEX-1QP6S-3026-SM-EAZ4N	Brain - Cerebellum
+GTEX-13OW8-0011-R10a-SM-5L3H6	Brain - Frontal Cortex (BA9)
+GTEX-1JJ6O-0005-SM-DHXJ4	Whole Blood
+GTEX-OXRN-2026-SM-E6CHK	Colon - Transverse
+GTEX-15SKB-0526-SM-6PAMP	Artery - Tibial
+GTEX-13O21-1926-SM-5MR39	Minor Salivary Gland
+GTEX-13SLX-2326-SM-5ZZWE	Breast - Mammary Tissue
+GTEX-11GSO-0011-R3b-SM-57WB2	Brain - Anterior cingulate cortex (BA24)
+GTEX-VJYA-0526-SM-4KL1R	Adrenal Gland
+GTEX-15DZA-1126-SM-6LPK8	Stomach
+GTEX-1GMR8-1826-SM-9WYUE	Esophagus - Mucosa
+GTEX-QEG5-0526-SM-5S2V3	Nerve - Tibial
+GTEX-145LV-2126-SM-5LU8N	Skin - Sun Exposed (Lower leg)
+GTEX-16MTA-0008-SM-EAZC6	Cells - Cultured fibroblasts
+GTEX-1JN6P-1626-SM-CYPSV	Adipose - Visceral (Omentum)
+GTEX-XBED-2526-SM-47JYD	Nerve - Tibial
+GTEX-XPVG-2126-SM-4B667	Skin - Not Sun Exposed (Suprapubic)
+GTEX-U3ZG-0006-SM-47JWX	Whole Blood
+GTEX-11DXW-0426-SM-5H12E	Nerve - Tibial
+GTEX-1I6K6-0826-SM-ARL7Z	Breast - Mammary Tissue
+GTEX-14PJM-1026-SM-6ETZT	Artery - Coronary
+GTEX-1F6I4-1426-SM-7MXU3	Testis
+GTEX-U3ZN-0006-SM-3DB7Y	Whole Blood
+GTEX-15ER7-3226-SM-6LPIX	Pituitary
+GTEX-11DZ1-0011-R8b-SM-DNZZI	Brain - Hypothalamus
+GTEX-1JMQL-1026-SM-CMKGV	Heart - Atrial Appendage
+GTEX-1IL2V-2026-SM-ARZMA	Stomach
+GTEX-1I6K6-1926-SM-A96SN	Colon - Sigmoid
+GTEX-1QW4Y-1026-SM-DTXE2	Breast - Mammary Tissue
+GTEX-1GN1W-1926-SM-7P8TH	Breast - Mammary Tissue
+GTEX-1GL5R-2026-SM-7MKHP	Small Intestine - Terminal Ileum
+GTEX-UTHO-3126-SM-3P5ZB	Pituitary
+GTEX-12WSE-0011-R11b-SM-5P9JW	Brain - Cerebellar Hemisphere
+GTEX-11GSP-0011-R9b-SM-5NQ77	Brain - Spinal cord (cervical c-1)
+GTEX-1A3MV-2126-SM-718BV	Adipose - Subcutaneous
+GTEX-1IKOE-0726-SM-CE6T4	Artery - Aorta
+GTEX-11ZTS-1526-SM-5N9G7	Colon - Sigmoid
+GTEX-WOFL-0626-SM-3MJG3	Muscle - Skeletal
+GTEX-1GTWX-2026-SM-9YFLM	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1R9JW-0226-SM-EVR4K	Thyroid
+GTEX-111FC-0426-SM-5N9CV	Artery - Tibial
+GTEX-16NGA-1626-SM-72D6M	Vagina
+GTEX-OXRK-1826-SM-2HMJE	Muscle - Skeletal
+GTEX-1CAMS-2426-SM-7DHMV	Small Intestine - Terminal Ileum
+GTEX-17GQL-1526-SM-7LTAC	Colon - Transverse
+GTEX-WQUQ-1426-SM-3MJFD	Heart - Left Ventricle
+GTEX-1KWVE-0226-SM-E9TKK	Adipose - Visceral (Omentum)
+GTEX-17F96-0126-SM-7EWDU	Skin - Not Sun Exposed (Suprapubic)
+GTEX-11P81-0726-SM-5PNYH	Adipose - Visceral (Omentum)
+GTEX-17EVP-0926-SM-7IGOY	Artery - Aorta
+GTEX-YB5K-0726-SM-5LU8R	Esophagus - Muscularis
+GTEX-Y3IK-2126-SM-4YCDS	Uterus
+GTEX-1IDFM-0005-SM-ADEGX	Whole Blood
+GTEX-1313W-0011-R4b-SM-5KLZV	Brain - Amygdala
+GTEX-OIZH-0526-SM-2HMKV	Lung
+GTEX-SUCS-1926-SM-32PM3	Skin - Sun Exposed (Lower leg)
+GTEX-R53T-0726-SM-48FCS	Artery - Coronary
+GTEX-1GZ4I-3126-SM-9WPPQ	Pituitary
+GTEX-S341-0526-SM-4AD5U	Esophagus - Mucosa
+GTEX-1313W-0008-SM-5YYAP	Cells - Cultured fibroblasts
+GTEX-1C2JI-0006-SM-7PC3Q	Whole Blood
+GTEX-132QS-1126-SM-5P9GC	Prostate
+GTEX-ZGAY-0426-SM-4WWAM	Artery - Coronary
+GTEX-18A7A-1726-SM-7LT93	Pancreas
+GTEX-WHWD-0005-SM-3LK7D	Whole Blood
+GTEX-1IDJC-0526-SM-AHZ2Q	Pancreas
+GTEX-WK11-0926-SM-3NMAU	Thyroid
+GTEX-1RDX4-0005-SM-DLHBS	Whole Blood
+GTEX-1AX9I-0011-R11b-SM-7DHN4	Brain - Cerebellar Hemisphere
+GTEX-13OVI-1126-SM-5KLZF	Kidney - Cortex
+GTEX-11P7K-1826-SM-5HL5A	Colon - Sigmoid
+GTEX-1JJ6O-3026-SM-C1YQH	Brain - Cerebellum
+GTEX-1JKYR-1926-SM-C1YR7	Colon - Transverse
+GTEX-1QP6S-0626-SM-E8VN4	Artery - Tibial
+GTEX-12WSJ-1526-SM-5GCNI	Colon - Transverse
+GTEX-17F96-1726-SM-7IGMB	Adipose - Subcutaneous
+GTEX-15RIE-1826-SM-6M48P	Colon - Transverse
+GTEX-1GN1V-1026-SM-CNPPS	Heart - Atrial Appendage
+GTEX-XV7Q-2526-SM-4BRV9	Skin - Sun Exposed (Lower leg)
+GTEX-14E6C-2826-SM-664NC	Prostate
+GTEX-12WSF-0011-R11a-SM-5LZVT	Brain - Cerebellar Hemisphere
+GTEX-16NGA-0008-SM-EAZC7	Cells - Cultured fibroblasts
+GTEX-Y9LG-0426-SM-4VBRT	Thyroid
+GTEX-13OVL-0326-SM-5IJCS	Adipose - Subcutaneous
+GTEX-13CIG-0006-SM-5P9HF	Whole Blood
+GTEX-YB5E-0001-SM-4VDSV	Cells - EBV-transformed lymphocytes
+GTEX-1B8SG-0626-SM-79OL3	Artery - Aorta
+GTEX-16XZZ-0011-R11a-SM-7EPI3	Brain - Cerebellar Hemisphere
+GTEX-17HG3-0011-R8a-SM-79OK7	Brain - Hypothalamus
+GTEX-XBED-2626-SM-4E3J5	Muscle - Skeletal
+GTEX-1GZ4I-0011-R11b-SM-9OSWR	Brain - Cerebellar Hemisphere
+GTEX-PLZ5-0326-SM-3P614	Adrenal Gland
+GTEX-1KD4Q-0926-SM-CXZKI	Lung
+GTEX-1MCQQ-0011-R3a-SM-EXURW	Brain - Anterior cingulate cortex (BA24)
+GTEX-WK11-0526-SM-3NB3O	Lung
+GTEX-18D9U-1326-SM-731BI	Artery - Aorta
+GTEX-ZF3C-1126-SM-57WEG	Heart - Atrial Appendage
+GTEX-1H11D-1226-SM-9WPQ2	Heart - Left Ventricle
+GTEX-14E6C-0626-SM-664NA	Artery - Aorta
+GTEX-ZXES-1626-SM-5NQ7L	Colon - Transverse
+GTEX-1S3DN-1526-SM-EVYCB	Stomach
+GTEX-131YS-2826-SM-5EQ47	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HCU7-0001-SM-EZ6LZ	Cells - EBV-transformed lymphocytes
+GTEX-X62O-0008-SM-46MU5	Cells - Cultured fibroblasts
+GTEX-1BAJH-0426-SM-73KWY	Adipose - Subcutaneous
+GTEX-13O3O-0726-SM-5J1N7	Lung
+GTEX-1JMLX-1426-SM-CNNPO	Spleen
+GTEX-1H1ZS-1526-SM-9OSXR	Esophagus - Mucosa
+GTEX-1E1VI-0626-SM-7PBZ1	Artery - Tibial
+GTEX-QV31-0006-SM-793B5	Whole Blood
+GTEX-PX3G-0426-SM-48U1C	Artery - Aorta
+GTEX-WK11-1126-SM-4OOSJ	Esophagus - Muscularis
+GTEX-XGQ4-0926-SM-4AT4U	Breast - Mammary Tissue
+GTEX-18A67-1226-SM-7KFRS	Heart - Left Ventricle
+GTEX-XYKS-1226-SM-4BRVI	Pancreas
+GTEX-XGQ4-1326-SM-4GIDU	Small Intestine - Terminal Ileum
+GTEX-ZPCL-0004-SM-4WWD6	Cells - EBV-transformed lymphocytes
+GTEX-WFJO-1926-SM-3GILA	Adipose - Subcutaneous
+GTEX-12WSM-0011-R5a-SM-5EQ4Y	Brain - Caudate (basal ganglia)
+GTEX-XBEC-1326-SM-4AT69	Heart - Left Ventricle
+GTEX-11O72-0626-SM-5PNYE	Skin - Not Sun Exposed (Suprapubic)
+GTEX-13X6I-1026-SM-5LU4C	Esophagus - Mucosa
+GTEX-1B97I-0926-SM-731DZ	Esophagus - Mucosa
+GTEX-T2YK-1326-SM-4DM6S	Esophagus - Mucosa
+GTEX-11WQC-0626-SM-5EQMF	Lung
+GTEX-15SHW-0008-SM-EAZ33	Cells - Cultured fibroblasts
+GTEX-1RAZA-1226-SM-E6CQA	Esophagus - Gastroesophageal Junction
+GTEX-YFCO-1726-SM-4W21S	Testis
+GTEX-T2YK-0005-SM-32QOV	Whole Blood
+GTEX-1NSGN-2226-SM-E6CQG	Esophagus - Muscularis
+GTEX-1GN1U-0426-SM-9MQM9	Artery - Tibial
+GTEX-14ASI-3026-SM-5S2PN	Brain - Cortex
+GTEX-1J8JJ-0001-SM-EAZDE	Cells - EBV-transformed lymphocytes
+GTEX-1A3MW-0006-SM-7MKGU	Whole Blood
+GTEX-XBED-0226-SM-47JY8	Pancreas
+GTEX-1EU9M-1526-SM-79OLI	Prostate
+GTEX-12126-0826-SM-5FQTZ	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1HB9E-0826-SM-CNNQJ	Thyroid
+GTEX-13112-0426-SM-5PNVC	Heart - Left Ventricle
+GTEX-1ICG6-2826-SM-ADEIJ	Nerve - Tibial
+GTEX-Y114-2726-SM-E9J3X	Artery - Tibial
+GTEX-16MT8-0826-SM-7KULO	Heart - Atrial Appendage
+GTEX-R55C-1726-SM-3GADJ	Muscle - Skeletal
+GTEX-RNOR-1326-SM-48FDE	Esophagus - Muscularis
+GTEX-SUCS-1426-SM-4DM5W	Pancreas
+GTEX-1KWVE-1626-SM-DKPPA	Artery - Tibial
+GTEX-OOBK-0226-SM-2YUMF	Adipose - Subcutaneous
+GTEX-1H1CY-3026-SM-9OSW7	Brain - Cerebellum
+GTEX-1JMPY-1526-SM-ARL91	Artery - Tibial
+GTEX-14LZ3-3026-SM-5ZZVU	Brain - Cortex
+GTEX-13SLX-1226-SM-5S2Q6	Liver
+GTEX-1JJEA-0526-SM-D3L95	Artery - Tibial
+GTEX-ZA64-2026-SM-5PNXT	Muscle - Skeletal
+GTEX-1CB4G-3126-SM-7EPHX	Pituitary
+GTEX-13W3W-1126-SM-5L3DO	Adipose - Visceral (Omentum)
+GTEX-17F96-1426-SM-7IGQA	Spleen
+GTEX-1F75W-3126-SM-7P8SJ	Brain - Cerebellum
+GTEX-17F98-1826-SM-7DUFK	Esophagus - Gastroesophageal Junction
+GTEX-WOFL-0006-SM-3TW8K	Whole Blood
+GTEX-13O21-0326-SM-5J1N9	Heart - Atrial Appendage
+GTEX-ZGAY-0526-SM-4WWBB	Skin - Sun Exposed (Lower leg)
+GTEX-Q2AH-1226-SM-48TZL	Colon - Transverse
+GTEX-1JJEA-0826-SM-CL53T	Heart - Left Ventricle
+GTEX-ZT9X-2126-SM-57WEV	Nerve - Tibial
+GTEX-1H3O1-0005-SM-ACKV8	Whole Blood
+GTEX-1H23P-0011-R1a-SM-ACKVC	Brain - Hippocampus
+GTEX-ZAB4-2926-SM-57WCV	Brain - Cerebellum
+GTEX-1HFI7-1826-SM-ACKXH	Skin - Sun Exposed (Lower leg)
+GTEX-16Z82-0011-R1b-SM-7EPHZ	Brain - Hippocampus
+GTEX-1117F-0226-SM-5GZZ7	Adipose - Subcutaneous
+GTEX-1GZ2Q-0226-SM-7P8TL	Skin - Sun Exposed (Lower leg)
+GTEX-11DXY-0226-SM-5H123	Testis
+GTEX-12C56-2026-SM-5FQSI	Artery - Tibial
+GTEX-1KANB-1926-SM-D3L9H	Esophagus - Muscularis
+GTEX-1LSNL-1426-SM-E6CJ9	Adipose - Visceral (Omentum)
+GTEX-1RAZR-0226-SM-EVYC6	Adipose - Subcutaneous
+GTEX-VJWN-0005-SM-3GIKF	Whole Blood
+GTEX-1HCU7-2426-SM-CKZOL	Esophagus - Gastroesophageal Junction
+GTEX-OXRN-1726-SM-3NM9B	Esophagus - Mucosa
+GTEX-16Z82-0011-R11a-SM-79OKJ	Brain - Cerebellar Hemisphere
+GTEX-1J8Q2-0011-R6a-SM-CKZPG	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZF29-0626-SM-4WKHD	Spleen
+GTEX-WHSB-2326-SM-4M1XK	Minor Salivary Gland
+GTEX-ZLWG-0004-SM-4WWD5	Cells - EBV-transformed lymphocytes
+GTEX-13O3Q-0626-SM-5IJG1	Thyroid
+GTEX-1F88E-2826-SM-7RHHE	Brain - Cortex
+GTEX-15RIF-1126-SM-7KUG2	Stomach
+GTEX-13PL6-0926-SM-5KLYY	Adipose - Visceral (Omentum)
+GTEX-WFON-0426-SM-3GIL4	Lung
+GTEX-1JMLX-0006-SM-DHXJ6	Whole Blood
+GTEX-17HHY-0226-SM-793BQ	Adipose - Subcutaneous
+GTEX-144GL-0011-R8a-SM-5Q5B1	Brain - Hypothalamus
+GTEX-1LVA9-2826-SM-EAZ5D	Testis
+GTEX-Y8E4-1626-SM-5S2MW	Breast - Mammary Tissue
+GTEX-17JCI-0726-SM-7EPH1	Breast - Mammary Tissue
+GTEX-14PHX-0826-SM-69LPO	Esophagus - Muscularis
+GTEX-18A67-0008-SM-EAZBP	Cells - Cultured fibroblasts
+GTEX-12WSN-5013-SM-7P8P9	Esophagus - Mucosa
+GTEX-14E7W-0011-R3b-SM-5YYB5	Brain - Anterior cingulate cortex (BA24)
+GTEX-1S82U-1126-SM-E9U6I	Breast - Mammary Tissue
+GTEX-13JVG-0426-SM-5MR59	Artery - Tibial
+GTEX-1HSGN-1226-SM-CGQFT	Artery - Coronary
+GTEX-145MH-0011-R11a-SM-5P9HQ	Brain - Cerebellar Hemisphere
+GTEX-1JMLX-0626-SM-ARL8T	Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZE9C-0011-R11a-SM-4WKGG	Brain - Cerebellar Hemisphere
+GTEX-1LG7Z-0826-SM-CXKYN	Prostate
+GTEX-12ZZY-0526-SM-5EQ5H	Artery - Tibial
+GTEX-1R7EU-0426-SM-EVR4H	Artery - Tibial
+GTEX-SE5C-1026-SM-4BRUG	Bladder
+GTEX-Y3I4-2226-SM-4TT7O	Adipose - Subcutaneous
+GTEX-12WSK-0008-SM-5YY9R	Cells - Cultured fibroblasts
+GTEX-XK95-1026-SM-4GIDV	Esophagus - Mucosa
+GTEX-V955-1326-SM-4JBHR	Stomach
+GTEX-11TT1-2226-SM-5GU6B	Testis
+GTEX-1H1DG-0126-SM-9WYU2	Skin - Sun Exposed (Lower leg)
+GTEX-1F88F-2826-SM-7SB8W	Nerve - Tibial
+GTEX-1IDFM-0226-SM-CMKFX	Adipose - Subcutaneous
+GTEX-15G19-0011-R8b-SM-7KUL1	Brain - Hypothalamus
+GTEX-TKQ2-0008-SM-4DM5L	Cells - Cultured fibroblasts
+GTEX-1S83E-1426-SM-EV7B8	Pancreas
+GTEX-Y8E4-1526-SM-4WWDI	Stomach
+GTEX-1HCU6-0126-SM-CL54K	Skin - Sun Exposed (Lower leg)
+GTEX-X4LF-0008-SM-4QAST	Cells - Cultured fibroblasts
+GTEX-1KXAM-2226-SM-CYPTC	Skin - Sun Exposed (Lower leg)
+GTEX-1LGRB-1126-SM-CNPP2	Heart - Left Ventricle
+GTEX-1HSMO-1126-SM-CGQF2	Heart - Atrial Appendage
+GTEX-14E1K-1626-SM-664MO	Colon - Sigmoid
+GTEX-1F88E-2926-SM-7MXVQ	Pituitary
+GTEX-1EKGG-2226-SM-7IGOA	Kidney - Cortex
+GTEX-13OVH-0426-SM-5K7UC	Artery - Tibial
+GTEX-R55E-2726-SM-48FCX	Pituitary
+GTEX-1GPI7-0005-SM-A9G13	Whole Blood
+GTEX-X5EB-1126-SM-46MVV	Colon - Sigmoid
+GTEX-1F52S-0426-SM-9MQJW	Artery - Tibial
+GTEX-PX3G-1526-SM-48U11	Stomach
+GTEX-14PJO-0005-SM-9JGGY	Whole Blood
+GTEX-1IL2V-0626-SM-ARU7S	Thyroid
+GTEX-13N1W-0011-R4a-SM-5MR52	Brain - Amygdala
+GTEX-1122O-1226-SM-5H113	Breast - Mammary Tissue
+GTEX-11I78-2626-SM-5Q5AI	Adipose - Subcutaneous
+GTEX-1CB4F-1326-SM-793CW	Esophagus - Gastroesophageal Junction
+GTEX-1EWIQ-0326-SM-7DHMQ	Skin - Not Sun Exposed (Suprapubic)
+GTEX-139UW-2626-SM-5K7W1	Muscle - Skeletal
+GTEX-WEY5-1026-SM-4LMK9	Esophagus - Muscularis
+GTEX-XAJ8-1026-SM-47JY9	Muscle - Skeletal
+GTEX-15F5U-1526-SM-6PANO	Skin - Sun Exposed (Lower leg)
+GTEX-1C2JI-1226-SM-7DHM2	Esophagus - Muscularis
+GTEX-13PL6-1126-SM-5L3IE	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1IDJU-2626-SM-CM2RT	Skin - Sun Exposed (Lower leg)
+GTEX-13NZ8-1626-SM-5IJBC	Artery - Tibial
+GTEX-WWTW-0002-SM-4MVNH	Cells - EBV-transformed lymphocytes
+GTEX-1AMFI-1926-SM-731F2	Small Intestine - Terminal Ileum
+GTEX-1LVAM-1126-SM-DHXKP	Esophagus - Mucosa
+GTEX-1IL2V-1826-SM-ARU7R	Kidney - Cortex
+GTEX-11TT1-2026-SM-5EQM8	Prostate
+GTEX-1B996-1826-SM-7MGY6	Esophagus - Mucosa
+GTEX-1CB4F-0426-SM-9KNV4	Skin - Sun Exposed (Lower leg)
+GTEX-U412-0726-SM-EVR2Y	Thyroid
+GTEX-14DAQ-0011-R5b-SM-5YYAK	Brain - Caudate (basal ganglia)
+GTEX-ZPCL-0826-SM-DNZZ7	Adrenal Gland
+GTEX-14PJO-1826-SM-69LPR	Pancreas
+GTEX-XUZC-0926-SM-4BOQF	Uterus
+GTEX-1IDJU-1826-SM-CMKHV	Breast - Mammary Tissue
+GTEX-1GN1V-0008-SM-EAZD5	Cells - Cultured fibroblasts
+GTEX-YEC3-1326-SM-DO92X	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1CAMS-2126-SM-7MXTF	Ovary
+GTEX-14PK6-0326-SM-6AJ9S	Lung
+GTEX-1R9PM-0926-SM-DPRYA	Esophagus - Mucosa
+GTEX-1O97I-1726-SM-EXOIP	Pancreas
+GTEX-15SHU-0626-SM-7KUFH	Muscle - Skeletal
+GTEX-P4PQ-1026-SM-3NMCN	Pancreas
+GTEX-ZUA1-3026-SM-59HJC	Brain - Cortex
+GTEX-146FH-1526-SM-5NQBU	Liver
+GTEX-R55D-1126-SM-48FEB	Esophagus - Mucosa
+GTEX-15RIE-0326-SM-6PAMC	Lung
+GTEX-1AYD5-2326-SM-73KXF	Adipose - Subcutaneous
+GTEX-11EMC-0011-R11b-SM-DNZZK	Brain - Cerebellar Hemisphere
+GTEX-14DAQ-0011-R4a-SM-5YYAI	Brain - Amygdala
+GTEX-1GN73-2026-SM-9WYTT	Esophagus - Muscularis
+GTEX-12C56-1726-SM-5EQ61	Skin - Sun Exposed (Lower leg)
+GTEX-Q734-0008-SM-48U2I	Cells - Cultured fibroblasts
+GTEX-11ZTS-1426-SM-5EQMM	Liver
+GTEX-11I78-0005-SM-5N9GB	Whole Blood
+GTEX-1B8SF-0011-R1b-SM-7P8Q8	Brain - Hippocampus
+GTEX-144GO-2726-SM-5O9A2	Esophagus - Mucosa
+GTEX-WYVS-1726-SM-3NMAY	Breast - Mammary Tissue
+GTEX-1GZ2Q-3126-SM-9JGGM	Pituitary
+GTEX-12696-2426-SM-5EQ6H	Skin - Sun Exposed (Lower leg)
+GTEX-1H1E6-2226-SM-9MQJX	Nerve - Tibial
+GTEX-OHPM-0006-SM-2HMKU	Whole Blood
+GTEX-XPVG-1826-SM-4B64X	Colon - Transverse
+GTEX-Q2AI-0226-SM-48U1D	Adrenal Gland
+GTEX-1C6VR-0011-R4b-SM-9QEGZ	Brain - Amygdala
+GTEX-ZZPU-2426-SM-5E44I	Artery - Tibial
+GTEX-T5JC-0011-R5A-SM-32PLK	Brain - Caudate (basal ganglia)
+GTEX-145MN-2326-SM-5SIB7	Artery - Tibial
+GTEX-OOBJ-0426-SM-3NB1S	Artery - Aorta
+GTEX-YFC4-0326-SM-4TT3U	Artery - Aorta
+GTEX-WYBS-0926-SM-3NM94	Breast - Mammary Tissue
+GTEX-1AX9J-1726-SM-731FF	Pancreas
+GTEX-PLZ4-2726-SM-3P61A	Vagina
+GTEX-XGQ4-0004-SM-4AT5S	Cells - EBV-transformed lymphocytes
+GTEX-14BMV-0011-R6b-SM-5YY9I	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1MCYP-1826-SM-E9J2Q	Adipose - Subcutaneous
+GTEX-13OW6-1826-SM-5N9F9	Kidney - Cortex
+GTEX-1KAFJ-0126-SM-DIPEK	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GMR3-0004-SM-EVR3D	Cells - EBV-transformed lymphocytes
+GTEX-YJ8O-0326-SM-5RQJW	Esophagus - Gastroesophageal Junction
+GTEX-ZQUD-0626-SM-51MR2	Esophagus - Gastroesophageal Junction
+GTEX-1EMGI-1226-SM-793DD	Heart - Left Ventricle
+GTEX-1PIGE-1426-SM-E9U61	Colon - Transverse
+GTEX-1RDX4-1626-SM-EVR53	Lung
+GTEX-1F75I-1026-SM-7SB8B	Adipose - Visceral (Omentum)
+GTEX-WHWD-1026-SM-4OORZ	Esophagus - Muscularis
+GTEX-T8EM-0226-SM-3DB7C	Thyroid
+GTEX-11TT1-1926-SM-5PNYN	Adipose - Visceral (Omentum)
+GTEX-1B8SG-0426-SM-73KY9	Nerve - Tibial
+GTEX-OHPM-1826-SM-2YUNF	Artery - Tibial
+GTEX-11VI4-1126-SM-5EQMD	Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJ4-1226-SM-5YY9U	Prostate
+GTEX-18A6Q-0526-SM-7LG4O	Artery - Tibial
+GTEX-13PL7-2326-SM-5L3FY	Ovary
+GTEX-12WSK-2226-SM-5GCO5	Breast - Mammary Tissue
+GTEX-1C4CL-0126-SM-7IGN5	Artery - Tibial
+GTEX-1B97J-1026-SM-7MXTE	Esophagus - Mucosa
+GTEX-ZAB5-0726-SM-5P9JG	Thyroid
+GTEX-1C6WA-3026-SM-7P8RQ	Brain - Cortex
+GTEX-ZG7Y-0326-SM-4WWEY	Pancreas
+GTEX-18D9U-1026-SM-72D5R	Thyroid
+GTEX-1117F-0526-SM-5EGHJ	Artery - Tibial
+GTEX-1B8L1-1326-SM-7MKG6	Adrenal Gland
+GTEX-WHSE-0926-SM-3NMBS	Heart - Left Ventricle
+GTEX-1NSGN-1726-SM-EXOJG	Pancreas
+GTEX-1I1GP-2226-SM-CGQFK	Skin - Sun Exposed (Lower leg)
+GTEX-1C64N-0526-SM-7PC32	Artery - Tibial
+GTEX-13111-2026-SM-5GCMN	Nerve - Tibial
+GTEX-S341-0006-SM-3NM8D	Whole Blood
+GTEX-QVJO-0011-R6A-SM-2S1QN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1A8G7-0011-R8a-SM-7P8S6	Brain - Hypothalamus
+GTEX-1B8L1-2826-SM-793D2	Artery - Tibial
+GTEX-WOFM-1626-SM-3MJFX	Nerve - Tibial
+GTEX-113JC-0726-SM-5GZZR	Adipose - Visceral (Omentum)
+GTEX-1F75B-0011-R2a-SM-ARL8I	Brain - Substantia nigra
+GTEX-1F48J-2526-SM-7P8TU	Vagina
+GTEX-1PIIG-0326-SM-EVYBV	Adipose - Subcutaneous
+GTEX-UTHO-0011-R4A-SM-3GIJP	Brain - Amygdala
+GTEX-1399R-2026-SM-5K7WN	Small Intestine - Terminal Ileum
+GTEX-1JMOU-0326-SM-ARL8X	Heart - Atrial Appendage
+GTEX-T6MN-0011-R11A-SM-32QOX	Brain - Cerebellar Hemisphere
+GTEX-1F75I-0005-SM-ADEHC	Whole Blood
+GTEX-131XF-5013-SM-7EWFI	Prostate
+GTEX-1CB4F-0626-SM-9MQLI	Nerve - Tibial
+GTEX-17MF6-0011-R1a-SM-72D6O	Brain - Hippocampus
+GTEX-Y5V5-0426-SM-4VBPU	Artery - Aorta
+GTEX-Y8E4-2326-SM-EAZAZ	Colon - Sigmoid
+GTEX-13U4I-0926-SM-5LU5A	Artery - Coronary
+GTEX-1QCLZ-0826-SM-EWRNA	Artery - Coronary
+GTEX-12WSA-1126-SM-5EGKU	Heart - Atrial Appendage
+GTEX-12ZZZ-3026-SM-5BC67	Brain - Cortex
+GTEX-13OW6-0011-R4a-SM-5O9DX	Brain - Amygdala
+GTEX-13JVG-3026-SM-5IJEV	Pituitary
+GTEX-1HKZK-0726-SM-ACKW2	Skin - Not Sun Exposed (Suprapubic)
+GTEX-15DCE-0008-SM-E6CPF	Cells - Cultured fibroblasts
+GTEX-1L5NE-0526-SM-DIPG5	Heart - Atrial Appendage
+GTEX-1N2DW-0011-R5a-SM-EYYX3	Brain - Caudate (basal ganglia)
+GTEX-13O1R-2026-SM-5KM3N	Liver
+GTEX-QVJO-2526-SM-CYPRA	Vagina
+GTEX-1GF9U-2326-SM-7RHH9	Muscle - Skeletal
+GTEX-Y3IK-0526-SM-4WWE3	Thyroid
+GTEX-1JJEA-3026-SM-E9TIC	Pituitary
+GTEX-139D8-0008-SM-5ZZUH	Cells - Cultured fibroblasts
+GTEX-ZF29-0126-SM-4WKGZ	Artery - Coronary
+GTEX-1399R-0226-SM-5IJGG	Spleen
+GTEX-WYVS-2526-SM-3NMAT	Artery - Tibial
+GTEX-1B932-1326-SM-79OM4	Heart - Atrial Appendage
+GTEX-OOBK-0425-SM-3LK5O	Artery - Aorta
+GTEX-1AX9I-0011-R4b-SM-7EPIB	Brain - Amygdala
+GTEX-1MUQO-1226-SM-E9TJK	Heart - Left Ventricle
+GTEX-1PDJ9-2026-SM-E76PT	Colon - Sigmoid
+GTEX-1I1GU-0826-SM-ARZM5	Thyroid
+GTEX-ZPCL-1426-SM-57WEC	Esophagus - Mucosa
+GTEX-11P82-0006-SM-5N9FY	Whole Blood
+GTEX-17KNJ-2726-SM-7KFRE	Minor Salivary Gland
+GTEX-R55D-0826-SM-48FEA	Breast - Mammary Tissue
+GTEX-1H1DG-0011-R10b-SM-CE6S7	Brain - Frontal Cortex (BA9)
+GTEX-1F6I4-0626-SM-9MQLL	Artery - Coronary
+GTEX-13X6J-2926-SM-7EPGP	Brain - Cerebellum
+GTEX-1F75B-0008-SM-EAZCP	Cells - Cultured fibroblasts
+GTEX-17MF6-0226-SM-7LG4G	Adipose - Subcutaneous
+GTEX-11ZUS-0326-SM-5EQ4W	Heart - Atrial Appendage
+GTEX-S4P3-0426-SM-4AD56	Esophagus - Mucosa
+GTEX-1E1VI-0011-R8b-SM-ARU8E	Brain - Hypothalamus
+GTEX-U8XE-1126-SM-3DB8W	Heart - Left Ventricle
+GTEX-N7MS-0011-R10A-SM-2HMJK	Brain - Frontal Cortex (BA9)
+GTEX-1GN1V-0326-SM-9WYTO	Muscle - Skeletal
+GTEX-14BMU-1426-SM-5TDE5	Small Intestine - Terminal Ileum
+GTEX-S341-1326-SM-4AD72	Cervix - Endocervix
+GTEX-11DXY-0006-SM-5NQ8N	Whole Blood
+GTEX-WOFM-1726-SM-3MJFA	Artery - Tibial
+GTEX-11VI4-1226-SM-5EQMP	Adipose - Visceral (Omentum)
+GTEX-148VI-0326-SM-5RQK7	Heart - Left Ventricle
+GTEX-XUYS-0005-SM-47JZ2	Whole Blood
+GTEX-1C6VQ-2326-SM-7IGN1	Kidney - Cortex
+GTEX-ZPIC-0426-SM-DO91V	Heart - Atrial Appendage
+GTEX-14BIM-0011-R9a-SM-6LLJL	Brain - Spinal cord (cervical c-1)
+GTEX-1IDFM-0426-SM-B2LVV	Breast - Mammary Tissue
+GTEX-1LGRB-1426-SM-CNNPT	Colon - Transverse
+GTEX-1GF9V-0126-SM-9WYT2	Muscle - Skeletal
+GTEX-1CB4I-0126-SM-7RHGG	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1OKEX-1126-SM-DTXEB	Small Intestine - Terminal Ileum
+GTEX-S341-1426-SM-4AD6U	Colon - Transverse
+GTEX-ZDXO-3026-SM-5J1N5	Skin - Sun Exposed (Lower leg)
+GTEX-1CB4I-0426-SM-7IGPR	Adipose - Subcutaneous
+GTEX-13O3O-2726-SM-5KM35	Ovary
+GTEX-1H3O1-0011-R4b-SM-A9SKE	Brain - Amygdala
+GTEX-1C6VQ-0011-R9a-SM-7SB85	Brain - Spinal cord (cervical c-1)
+GTEX-12WSH-0126-SM-5GCO3	Lung
+GTEX-16AAH-0005-SM-7P8RD	Whole Blood
+GTEX-11DXY-2626-SM-5GIE7	Skin - Sun Exposed (Lower leg)
+GTEX-14BMU-0726-SM-73KXS	Pancreas
+GTEX-1S5ZA-1326-SM-EV7BB	Small Intestine - Terminal Ileum
+GTEX-13NZ8-0126-SM-5IJCT	Breast - Mammary Tissue
+GTEX-ZC5H-2726-SM-5KLZW	Minor Salivary Gland
+GTEX-O5YT-0826-SM-3TW8N	Liver
+GTEX-1JMQK-0226-SM-CL543	Skin - Sun Exposed (Lower leg)
+GTEX-11TUW-0226-SM-5LU8X	Thyroid
+GTEX-1MCC2-1026-SM-EVR5I	Ovary
+GTEX-YEC4-2226-SM-5IFJT	Muscle - Skeletal
+GTEX-1AMFI-1026-SM-73KYM	Adipose - Visceral (Omentum)
+GTEX-1JMQJ-1726-SM-E9U4V	Kidney - Cortex
+GTEX-ZY6K-2026-SM-5GZXQ	Muscle - Skeletal
+GTEX-13O3P-0926-SM-5IFFI	Adipose - Visceral (Omentum)
+GTEX-VUSG-1726-SM-4KKZL	Small Intestine - Terminal Ileum
+GTEX-14BIM-1326-SM-7EWD1	Esophagus - Mucosa
+GTEX-15F5U-0008-SM-E8VMZ	Cells - Cultured fibroblasts
+GTEX-WZTO-0011-R6B-SM-4E3J6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WEY5-1926-SM-3GIL8	Adipose - Subcutaneous
+GTEX-131XG-1926-SM-5LZVG	Ovary
+GTEX-ZVZO-0226-SM-5A5LA	Adipose - Subcutaneous
+GTEX-ZLWG-0008-SM-4E3J4	Cells - Cultured fibroblasts
+GTEX-18A7A-2626-SM-7LG6L	Ovary
+GTEX-1IDJH-0011-R8b-SM-ARZLL	Brain - Hypothalamus
+GTEX-Y5V6-2726-SM-4VDSC	Nerve - Tibial
+GTEX-WYJK-2426-SM-4ONDQ	Pancreas
+GTEX-11UD2-0005-SM-5NQ9B	Whole Blood
+GTEX-YJ8A-0826-SM-5Q5A7	Artery - Tibial
+GTEX-1I1CD-0526-SM-CL55H	Artery - Tibial
+GTEX-1H1DG-0011-R8a-SM-CL54Z	Brain - Hypothalamus
+GTEX-11O72-0006-SM-5O9DB	Whole Blood
+GTEX-1399R-0726-SM-5KM2A	Esophagus - Muscularis
+GTEX-YECK-0726-SM-EZ6LV	Breast - Mammary Tissue
+GTEX-OHPL-0526-SM-3NM8U	Lung
+GTEX-1EH9U-2526-SM-79OO5	Esophagus - Muscularis
+GTEX-131XH-0011-R10a-SM-5EGLJ	Brain - Frontal Cortex (BA9)
+GTEX-14PN4-0011-R5a-SM-686ZV	Brain - Caudate (basal ganglia)
+GTEX-PWN1-1826-SM-2S1PE	Artery - Tibial
+GTEX-147F4-3126-SM-5TDDF	Pituitary
+GTEX-12ZZX-1326-SM-5DUWI	Esophagus - Mucosa
+GTEX-1J8EW-2726-SM-CY8HR	Skin - Not Sun Exposed (Suprapubic)
+GTEX-11NV4-1326-SM-5HL6V	Liver
+GTEX-13O3Q-2526-SM-5IJC4	Artery - Tibial
+GTEX-ZYFC-0526-SM-5GIDF	Muscle - Skeletal
+GTEX-XMD2-0008-SM-4WWE7	Cells - Cultured fibroblasts
+GTEX-1JMPZ-0726-SM-CY8HZ	Skin - Not Sun Exposed (Suprapubic)
+GTEX-ZPU1-1026-SM-4YCEQ	Spleen
+GTEX-14PN3-0426-SM-6LLIY	Artery - Coronary
+GTEX-17JCI-3126-SM-7LTA2	Brain - Cortex
+GTEX-1F48J-0526-SM-9WYSX	Muscle - Skeletal
+GTEX-13NYB-3026-SM-5IJD7	Brain - Cortex
+GTEX-11TTK-0126-SM-5987B	Skin - Sun Exposed (Lower leg)
+GTEX-ZZ64-0826-SM-5E449	Colon - Sigmoid
+GTEX-12WSK-0926-SM-5CVNQ	Thyroid
+GTEX-14E1K-1226-SM-5S2PD	Esophagus - Mucosa
+GTEX-TSE9-0011-R5A-SM-3DB7J	Brain - Caudate (basal ganglia)
+GTEX-1OJC4-1726-SM-EXUSV	Adipose - Subcutaneous
+GTEX-UPK5-0426-SM-3GAEK	Skin - Not Sun Exposed (Suprapubic)
+GTEX-145LU-0011-R1a-SM-5Q5CE	Brain - Hippocampus
+GTEX-1LG7Y-2226-SM-E9U5K	Colon - Sigmoid
+GTEX-1H1CY-2326-SM-9OSXW	Minor Salivary Gland
+GTEX-11P7K-1226-SM-5HL4X	Esophagus - Muscularis
+GTEX-1R7EU-0126-SM-EVR4F	Prostate
+GTEX-1NHNU-0005-SM-DKPP3	Whole Blood
+GTEX-1AX8Z-0826-SM-7DUFZ	Thyroid
+GTEX-1LKK1-2926-SM-EVR4Z	Minor Salivary Gland
+GTEX-RNOR-0011-R5A-SM-2TF4J	Brain - Caudate (basal ganglia)
+GTEX-14AS3-2226-SM-5S2OX	Nerve - Tibial
+GTEX-ZT9W-0126-SM-4YCFD	Adrenal Gland
+GTEX-13QJ3-0226-SM-5S2PU	Testis
+GTEX-1R9K5-2326-SM-DPRZC	Testis
+GTEX-OXRK-0008-SM-3NB28	Cells - Cultured fibroblasts
+GTEX-1GN1V-1826-SM-9JGGD	Testis
+GTEX-18D9U-2226-SM-7KFTN	Minor Salivary Gland
+GTEX-144GM-1526-SM-79OJM	Esophagus - Muscularis
+GTEX-1KANB-2626-SM-EV7BF	Adrenal Gland
+GTEX-11NV4-1726-SM-5N9FC	Testis
+GTEX-17F98-0426-SM-79ONZ	Pancreas
+GTEX-ZPU1-0004-SM-4WWAV	Cells - EBV-transformed lymphocytes
+GTEX-1J8Q2-0011-R1a-SM-D4P2D	Brain - Hippocampus
+GTEX-XAJ8-0826-SM-47JY6	Skin - Sun Exposed (Lower leg)
+GTEX-17EVQ-0011-R8a-SM-7189T	Brain - Hypothalamus
+GTEX-1HSMO-1726-SM-A9SKO	Esophagus - Gastroesophageal Junction
+GTEX-12WSJ-1226-SM-5LU91	Ovary
+GTEX-11NV4-0526-SM-5N9BF	Artery - Tibial
+GTEX-1GN73-2626-SM-9KNUQ	Colon - Transverse
+GTEX-RUSQ-0006-SM-2TF6P	Whole Blood
+GTEX-ZV68-0008-SM-4YCCV	Cells - Cultured fibroblasts
+GTEX-1I1GP-2326-SM-CGQFL	Adipose - Subcutaneous
+GTEX-1N2EF-2326-SM-DTXEE	Esophagus - Gastroesophageal Junction
+GTEX-O5YU-0008-SM-4E3I7	Cells - Cultured fibroblasts
+GTEX-1H11D-1526-SM-9MQJY	Breast - Mammary Tissue
+GTEX-S32W-1126-SM-4AD5V	Bladder
+GTEX-13O3Q-0011-R3a-SM-5P9H3	Brain - Anterior cingulate cortex (BA24)
+GTEX-11ZVC-0011-R9a-SM-57WC5	Brain - Spinal cord (cervical c-1)
+GTEX-13PVR-2426-SM-5RQHN	Adipose - Subcutaneous
+GTEX-XBED-0926-SM-48TCE	Esophagus - Muscularis
+GTEX-1212Z-1826-SM-5FQSH	Colon - Sigmoid
+GTEX-13X6I-1526-SM-5SIAC	Adipose - Visceral (Omentum)
+GTEX-13N11-0426-SM-5KM3O	Heart - Left Ventricle
+GTEX-1JMPZ-1926-SM-E9TIT	Esophagus - Muscularis
+GTEX-1J8JJ-0011-R9a-SM-ACKVF	Brain - Spinal cord (cervical c-1)
+GTEX-ZXES-1926-SM-5E445	Nerve - Tibial
+GTEX-1GL5R-0326-SM-9WYTJ	Heart - Left Ventricle
+GTEX-1F48J-0011-R5b-SM-9OSVZ	Brain - Caudate (basal ganglia)
+GTEX-UJMC-0626-SM-4IHJQ	Artery - Aorta
+GTEX-ZP4G-0003-SM-4WWED	Cells - EBV-transformed lymphocytes
+GTEX-1HR9M-2326-SM-CNPPZ	Stomach
+GTEX-16Z82-3126-SM-7EWEC	Pituitary
+GTEX-1R9PO-2626-SM-E6CPU	Minor Salivary Gland
+GTEX-145MG-0011-R5b-SM-5S2VU	Brain - Caudate (basal ganglia)
+GTEX-1I1CD-0626-SM-CE6SW	Skin - Not Sun Exposed (Suprapubic)
+GTEX-13N2G-0226-SM-5K7VF	Skin - Not Sun Exposed (Suprapubic)
+GTEX-11EQ9-0126-SM-5986I	Adrenal Gland
+GTEX-1CAMR-0626-SM-7DHMI	Esophagus - Gastroesophageal Junction
+GTEX-YFC4-0526-SM-5ZZVI	Heart - Left Ventricle
+GTEX-13PVQ-1926-SM-5L3GN	Esophagus - Gastroesophageal Junction
+GTEX-117YX-1826-SM-5H12K	Esophagus - Muscularis
+GTEX-YB5E-0626-SM-4VDSE	Thyroid
+GTEX-Y8DK-0126-SM-4TT3L	Skin - Sun Exposed (Lower leg)
+GTEX-11EM3-0726-SM-5GZZM	Esophagus - Muscularis
+GTEX-PVOW-0011-R10A-SM-EXOHB	Brain - Frontal Cortex (BA9)
+GTEX-13W3W-0005-SM-5SI9Y	Whole Blood
+GTEX-13CF3-2226-SM-5J2MX	Artery - Tibial
+GTEX-1C2JI-2226-SM-7IGPJ	Adipose - Subcutaneous
+GTEX-1F5PL-2126-SM-7PC2O	Colon - Transverse
+GTEX-17JCI-0011-R10b-SM-718A2	Brain - Frontal Cortex (BA9)
+GTEX-16XZZ-0226-SM-7MGVJ	Adipose - Subcutaneous
+GTEX-144GO-0011-R1a-SM-5PNWO	Brain - Hippocampus
+GTEX-16YQH-2826-SM-6PAMY	Breast - Mammary Tissue
+GTEX-1H1ZS-0011-R11a-SM-C1YQM	Brain - Cerebellar Hemisphere
+GTEX-12ZZW-1726-SM-5DUVD	Esophagus - Mucosa
+GTEX-R55C-0005-SM-3GAE9	Whole Blood
+GTEX-1K2DU-2526-SM-D3L8V	Muscle - Skeletal
+GTEX-11DXW-0011-R7b-SM-DO119	Brain - Putamen (basal ganglia)
+GTEX-12WSF-0011-R2a-SM-5DUVU	Brain - Substantia nigra
+GTEX-13OW6-0011-R11a-SM-5L3H2	Brain - Cerebellar Hemisphere
+GTEX-WRHU-0726-SM-3MJFL	Artery - Tibial
+GTEX-13OVL-0006-SM-5O996	Whole Blood
+GTEX-NPJ7-2926-SM-3MJGQ	Pituitary
+GTEX-14E6E-0526-SM-793DN	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1H3O1-0626-SM-9MQM4	Muscle - Skeletal
+GTEX-145MH-3126-SM-5S2QT	Pituitary
+GTEX-144GO-0011-R6b-SM-5S2V7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVG-0526-SM-5K7YD	Heart - Left Ventricle
+GTEX-QVJO-1626-SM-2S1QW	Skin - Sun Exposed (Lower leg)
+GTEX-1IKOH-0011-R2a-SM-CMKHO	Brain - Substantia nigra
+GTEX-14ICL-0126-SM-664NG	Spleen
+GTEX-ZLWG-1926-SM-DO92J	Breast - Mammary Tissue
+GTEX-11TTK-0005-SM-5O9BX	Whole Blood
+GTEX-1C64N-3026-SM-7MGVU	Brain - Cortex
+GTEX-16NGA-1026-SM-7KFS3	Colon - Transverse
+GTEX-ZV7C-2426-SM-5NQ7Q	Muscle - Skeletal
+GTEX-WHSE-0006-SM-3NMBW	Whole Blood
+GTEX-13O3Q-0011-R6a-SM-5KM2V	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1I4MK-0126-SM-CY8G6	Skin - Not Sun Exposed (Suprapubic)
+GTEX-Q2AG-0011-R5A-SM-2HMJH	Brain - Caudate (basal ganglia)
+GTEX-TKQ1-0126-SM-33HB3	Thyroid
+GTEX-XOT4-0426-SM-4B66T	Artery - Tibial
+GTEX-WFG7-2226-SM-3GIKP	Muscle - Skeletal
+GTEX-11DXX-2126-SM-5PNYR	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1GZ4I-0011-R6b-SM-9WG77	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11EM3-1326-SM-5N9C6	Breast - Mammary Tissue
+GTEX-1B8SG-0826-SM-7EWF7	Heart - Left Ventricle
+GTEX-13QJ3-0626-SM-5SI6G	Artery - Tibial
+GTEX-14BMV-0826-SM-73KXU	Lung
+GTEX-1GL5R-0626-SM-7PBZY	Thyroid
+GTEX-U3ZH-1726-SM-3DB79	Artery - Tibial
+GTEX-13OVK-1026-SM-7KFTC	Colon - Sigmoid
+GTEX-16GPK-1826-SM-7MGW5	Lung
+GTEX-1IKK5-0011-R3b-SM-C1YRY	Brain - Anterior cingulate cortex (BA24)
+GTEX-1497J-2126-SM-5NQB8	Esophagus - Gastroesophageal Junction
+GTEX-11P7K-2226-SM-5GU56	Nerve - Tibial
+GTEX-11DXY-3226-SM-5GIDE	Brain - Cortex
+GTEX-WFG8-1626-SM-4LVMB	Small Intestine - Terminal Ileum
+GTEX-1F5PK-0326-SM-9KNUD	Heart - Left Ventricle
+GTEX-Y9LG-1826-SM-4VBQC	Prostate
+GTEX-WH7G-2026-SM-3NMBL	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1J8QM-1226-SM-CY8HI	Colon - Sigmoid
+GTEX-T8EM-0626-SM-4DM62	Esophagus - Muscularis
+GTEX-P44G-0826-SM-2I5ES	Heart - Left Ventricle
+GTEX-11WQK-2426-SM-5GU5C	Breast - Mammary Tissue
+GTEX-17MF6-0011-R7b-SM-7LG6J	Brain - Putamen (basal ganglia)
+GTEX-15RIE-1726-SM-7KUMU	Heart - Left Ventricle
+GTEX-12ZZY-2926-SM-5DUXO	Brain - Cerebellum
+GTEX-1C475-1426-SM-793CH	Small Intestine - Terminal Ileum
+GTEX-1C475-2026-SM-793CI	Nerve - Tibial
+GTEX-13U4I-1126-SM-5LU3S	Esophagus - Mucosa
+GTEX-1HR98-0426-SM-COH36	Breast - Mammary Tissue
+GTEX-ZF29-0826-SM-5S2O2	Adipose - Visceral (Omentum)
+GTEX-1CB4J-0126-SM-7PC3K	Artery - Aorta
+GTEX-15RJE-0011-R6a-SM-7DHL8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OW6-0426-SM-5L3HM	Skin - Sun Exposed (Lower leg)
+GTEX-1192X-0726-SM-5987R	Heart - Atrial Appendage
+GTEX-1H11D-1826-SM-9QEHM	Skin - Not Sun Exposed (Suprapubic)
+GTEX-14PJO-0011-R1b-SM-6AJAK	Brain - Hippocampus
+GTEX-Q2AH-1526-SM-48TZG	Testis
+GTEX-11I78-1726-SM-5A5M3	Stomach
+GTEX-13113-2026-SM-5LZU3	Nerve - Tibial
+GTEX-1C6VS-1826-SM-73KXN	Adipose - Visceral (Omentum)
+GTEX-1445S-2926-SM-5O993	Minor Salivary Gland
+GTEX-145MO-2126-SM-5Q5CZ	Pancreas
+GTEX-17F9Y-2626-SM-7IGN9	Colon - Sigmoid
+GTEX-139TS-2226-SM-5J2N1	Colon - Sigmoid
+GTEX-QDT8-0426-SM-32PKZ	Artery - Tibial
+GTEX-17JCI-0126-SM-7LG5G	Skin - Sun Exposed (Lower leg)
+GTEX-11TUW-0011-R1a-SM-DO92S	Brain - Hippocampus
+GTEX-X5EB-0926-SM-46MVT	Colon - Transverse
+GTEX-ZPCL-0526-SM-DO91R	Heart - Atrial Appendage
+GTEX-13O3Q-2226-SM-5KM4O	Breast - Mammary Tissue
+GTEX-ZQUD-2126-SM-51MSY	Minor Salivary Gland
+GTEX-17EUY-2026-SM-79OMV	Prostate
+GTEX-1H1DG-0826-SM-9QEIW	Heart - Atrial Appendage
+GTEX-Y8DK-0011-R10A-SM-4SOK1	Brain - Frontal Cortex (BA9)
+GTEX-TML8-1426-SM-4DXUT	Esophagus - Muscularis
+GTEX-ZDYS-0226-SM-5HL4K	Heart - Left Ventricle
+GTEX-1F75A-0426-SM-7RHGN	Nerve - Tibial
+GTEX-T5JW-0426-SM-4DM7M	Ovary
+GTEX-12ZZW-2326-SM-5DUW2	Adipose - Visceral (Omentum)
+GTEX-13W3W-0626-SM-5LU45	Artery - Coronary
+GTEX-1S5VW-0005-SM-CYPS4	Whole Blood
+GTEX-14ICL-0326-SM-5S2OS	Artery - Aorta
+GTEX-13112-0011-R4b-SM-5DUXL	Brain - Amygdala
+GTEX-1I1GV-0011-R5b-SM-CKZPD	Brain - Caudate (basal ganglia)
+GTEX-1LSVX-0011-R4b-SM-EXURP	Brain - Amygdala
+GTEX-NFK9-1126-SM-3LK78	Esophagus - Mucosa
+GTEX-1GPI7-0826-SM-9JGG7	Adipose - Visceral (Omentum)
+GTEX-15CHC-1226-SM-686ZH	Minor Salivary Gland
+GTEX-1EX96-0011-R1a-SM-CE6R5	Brain - Hippocampus
+GTEX-1IKK5-0226-SM-CM2TV	Nerve - Tibial
+GTEX-14PJO-2926-SM-686ZI	Brain - Cerebellum
+GTEX-QV31-0008-SM-447AT	Cells - Cultured fibroblasts
+GTEX-T6MN-0526-SM-32PMS	Muscle - Skeletal
+GTEX-1R9JW-0126-SM-EAZ4P	Spleen
+GTEX-117YW-0005-SM-5NQ8Z	Whole Blood
+GTEX-13FTY-0011-R1a-SM-5LZXE	Brain - Hippocampus
+GTEX-17MFQ-0826-SM-793C8	Testis
+GTEX-WEY5-1426-SM-4LMJ3	Colon - Transverse
+GTEX-145MO-0626-SM-5NQAW	Artery - Tibial
+GTEX-QLQ7-1426-SM-4R1JX	Testis
+GTEX-111YS-0826-SM-5GZYK	Esophagus - Gastroesophageal Junction
+GTEX-11TUW-2026-SM-5EQL8	Colon - Transverse
+GTEX-18A6Q-0726-SM-7LT8Y	Thyroid
+GTEX-12WSG-1026-SM-5EGII	Pancreas
+GTEX-ZTPG-0526-SM-5O98W	Nerve - Tibial
+GTEX-12KS4-0426-SM-5EQMC	Adipose - Subcutaneous
+GTEX-1F5PL-1626-SM-7MXTY	Ovary
+GTEX-15DCE-2026-SM-7KUFE	Colon - Transverse
+GTEX-1I1GU-0008-SM-EXUT7	Cells - Cultured fibroblasts
+GTEX-1H4P4-0011-R11b-SM-CE6S8	Brain - Cerebellar Hemisphere
+GTEX-1K2DU-1726-SM-EV79S	Esophagus - Mucosa
+GTEX-1PBJI-2026-SM-DPRYF	Ovary
+GTEX-1F75I-1726-SM-7MKGW	Esophagus - Mucosa
+GTEX-1GF9X-1426-SM-7RHGX	Colon - Sigmoid
+GTEX-11OF3-0011-R5a-SM-57WB4	Brain - Caudate (basal ganglia)
+GTEX-1B8KZ-2326-SM-7DUG9	Nerve - Tibial
+GTEX-17HGU-0006-SM-7MXT8	Whole Blood
+GTEX-1QCLY-1426-SM-E76P8	Esophagus - Muscularis
+GTEX-13S7M-0011-R10b-SM-5PNZB	Brain - Frontal Cortex (BA9)
+GTEX-XUZC-1126-SM-4BOPZ	Adipose - Visceral (Omentum)
+GTEX-12ZZX-0426-SM-5DUVT	Nerve - Tibial
+GTEX-1445S-0626-SM-5LU3C	Muscle - Skeletal
+GTEX-11ZTT-0006-SM-5N9FX	Whole Blood
+GTEX-QMRM-0626-SM-447BQ	Artery - Aorta
+GTEX-15EO6-0926-SM-6M48N	Esophagus - Gastroesophageal Junction
+GTEX-QEG4-0326-SM-DIPE3	Adipose - Subcutaneous
+GTEX-13FTX-0005-SM-5N9F6	Whole Blood
+GTEX-WXYG-0004-SM-4MVOS	Cells - EBV-transformed lymphocytes
+GTEX-1H3VY-2726-SM-A96TL	Prostate
+GTEX-1P4AB-0326-SM-EXUT3	Muscle - Skeletal
+GTEX-1I1CD-0926-SM-CL55I	Lung
+GTEX-12KS4-2326-SM-5EGJB	Colon - Sigmoid
+GTEX-13111-2226-SM-5LZUE	Muscle - Skeletal
+GTEX-1PWST-2426-SM-EWRMP	Colon - Transverse
+GTEX-132Q8-1426-SM-5EGK7	Breast - Mammary Tissue
+GTEX-14PN4-0005-SM-7PC21	Whole Blood
+GTEX-ZYVF-0526-SM-5E43E	Uterus
+GTEX-132QS-1226-SM-5P9GD	Testis
+GTEX-ZPIC-1226-SM-DO91X	Uterus
+GTEX-ZF2S-2426-SM-5DUXV	Artery - Tibial
+GTEX-ZE9C-2126-SM-4WKGY	Colon - Sigmoid
+GTEX-1H1DG-1226-SM-9JGH3	Esophagus - Mucosa
+GTEX-1A3MV-1326-SM-7LG6C	Esophagus - Mucosa
+GTEX-146FQ-2126-SM-5RQHU	Skin - Not Sun Exposed (Suprapubic)
+GTEX-18A66-0526-SM-7LG5O	Artery - Tibial
+GTEX-16NPX-1626-SM-6LLI5	Esophagus - Mucosa
+GTEX-11ZUS-1326-SM-5FQUC	Artery - Tibial
+GTEX-Y3IK-2226-SM-4YCD4	Vagina
+GTEX-1IE54-0226-SM-CMKHX	Adipose - Subcutaneous
+GTEX-1HCUA-0826-SM-ADEHM	Skin - Not Sun Exposed (Suprapubic)
+GTEX-QDVN-0526-SM-48TZ4	Spleen
+GTEX-1GF9V-1126-SM-9MQM7	Adipose - Visceral (Omentum)
+GTEX-11TUW-2426-SM-5EQKB	Minor Salivary Gland
+GTEX-17EVP-3026-SM-7IGQL	Brain - Cortex
+GTEX-1KD5A-1426-SM-D4P3V	Stomach
+GTEX-1I1GS-0926-SM-A9SL5	Adipose - Visceral (Omentum)
+GTEX-14PN3-1226-SM-69LOW	Esophagus - Gastroesophageal Junction
+GTEX-1GF9U-0008-SM-EAZCV	Cells - Cultured fibroblasts
+GTEX-14C39-0226-SM-5TDDW	Thyroid
+GTEX-1GPI7-1426-SM-9JGGR	Testis
+GTEX-1CAMQ-2526-SM-7MGWT	Esophagus - Muscularis
+GTEX-Y8E4-0426-SM-4V6GB	Heart - Atrial Appendage
+GTEX-132AR-2726-SM-5PNVN	Colon - Transverse
+GTEX-131XE-0826-SM-5HL9W	Colon - Transverse
+GTEX-1KD4Q-3026-SM-EV7A7	Brain - Cerebellum
+GTEX-1LKK1-2626-SM-DKPQE	Skin - Not Sun Exposed (Suprapubic)
+GTEX-15ETS-2426-SM-6PANJ	Artery - Tibial
+GTEX-1RAZS-2926-SM-EVR4T	Pituitary
+GTEX-11P7K-0426-SM-5BC5H	Spleen
+GTEX-QVUS-0226-SM-3GIJY	Muscle - Skeletal
+GTEX-UTHO-1026-SM-3GAF7	Breast - Mammary Tissue
+GTEX-1B8SG-0726-SM-79ONS	Heart - Atrial Appendage
+GTEX-ZYFG-1626-SM-5GZYY	Kidney - Cortex
+GTEX-15SHV-1126-SM-6PALO	Esophagus - Muscularis
+GTEX-1N5O9-0006-SM-DKPPS	Whole Blood
+GTEX-1QP28-2226-SM-DTX8C	Colon - Sigmoid
+GTEX-132Q8-1126-SM-5K7XS	Heart - Atrial Appendage
+GTEX-145LT-0926-SM-5LU9C	Colon - Transverse
+GTEX-1IDJH-1126-SM-COH3R	Heart - Atrial Appendage
+GTEX-1F5PK-2626-SM-7RHH6	Muscle - Skeletal
+GTEX-Y3IK-0226-SM-51MRJ	Adrenal Gland
+GTEX-ZYT6-1726-SM-5E44P	Heart - Left Ventricle
+GTEX-1GZ4I-0011-R9b-SM-B2LY8	Brain - Spinal cord (cervical c-1)
+GTEX-1HSMQ-0001-SM-EZ6M5	Cells - EBV-transformed lymphocytes
+GTEX-1HSGN-0826-SM-ACKW3	Skin - Not Sun Exposed (Suprapubic)
+GTEX-1EH9U-2426-SM-7EWFG	Esophagus - Mucosa
+GTEX-1AX9I-1726-SM-731BX	Adipose - Visceral (Omentum)
+GTEX-1PFEY-1026-SM-DTXEZ	Esophagus - Gastroesophageal Junction
+GTEX-1IL2V-0011-R10a-SM-CL55A	Brain - Frontal Cortex (BA9)
+GTEX-1H3VY-1026-SM-ACKXF	Artery - Aorta
+GTEX-13JVG-2926-SM-5J2N9	Minor Salivary Gland
+GTEX-1MA7W-0526-SM-E6CIN	Adipose - Visceral (Omentum)
+GTEX-Q2AG-0005-SM-5SI7F	Whole Blood
+GTEX-1399R-0002-SM-62LD9	Cells - EBV-transformed lymphocytes
+GTEX-1B97J-1226-SM-7PBZR	Muscle - Skeletal
+GTEX-1IGQW-0626-SM-C1YR9	Thyroid
+GTEX-15UF6-2226-SM-6M471	Esophagus - Gastroesophageal Junction
+GTEX-11TTK-0011-R4a-SM-DNZZU	Brain - Amygdala
+GTEX-R53T-1026-SM-48FCO	Esophagus - Muscularis
+GTEX-11XUK-0126-SM-5CVLK	Adrenal Gland
+GTEX-1JMPY-1326-SM-ARL8Y	Skin - Sun Exposed (Lower leg)
+GTEX-11LCK-1526-SM-5HL64	Esophagus - Gastroesophageal Junction
+GTEX-1LVAM-1826-SM-DHXKR	Ovary
+GTEX-17MF6-1126-SM-7DUFS	Liver
+GTEX-14ASI-2926-SM-5Q5DG	Brain - Cerebellum
+GTEX-O5YT-0726-SM-3MJHA	Esophagus - Muscularis
+GTEX-1HSGN-0126-SM-CGQFU	Adipose - Subcutaneous
+GTEX-ZQG8-0626-SM-57WF3	Artery - Coronary
+GTEX-1A32A-0006-SM-7PC1Y	Whole Blood
+GTEX-15RJ7-2426-SM-6M48L	Muscle - Skeletal
+GTEX-1IGQW-0011-R11a-SM-C1YRV	Brain - Cerebellar Hemisphere
+GTEX-1NHNU-1326-SM-E9J2D	Artery - Tibial
+GTEX-1J1OQ-0011-R8a-SM-ACKVE	Brain - Hypothalamus
+GTEX-145MG-0011-R10a-SM-5PNWG	Brain - Frontal Cortex (BA9)
+GTEX-O5YT-1326-SM-3MJGR	Adrenal Gland
+GTEX-12696-0008-SM-5TDBX	Cells - Cultured fibroblasts
+GTEX-TMMY-0626-SM-33HBD	Artery - Tibial
+GTEX-11ZTS-1326-SM-5EQMA	Adipose - Visceral (Omentum)
+GTEX-Y9LG-0926-SM-4VDS6	Esophagus - Gastroesophageal Junction
+GTEX-132AR-2826-SM-5IJFV	Colon - Sigmoid
+GTEX-1J8Q3-0126-SM-C1YSI	Spleen
+GTEX-183WM-0005-SM-9JGFW	Whole Blood
+GTEX-1GN2E-2226-SM-9WG6J	Breast - Mammary Tissue
+GTEX-WHPG-1126-SM-4M1XT	Esophagus - Mucosa
+GTEX-16XZY-0526-SM-7DHKY	Heart - Atrial Appendage
+GTEX-1CAMR-1726-SM-793CU	Muscle - Skeletal
+GTEX-1B8KZ-0008-SM-EXOHR	Cells - Cultured fibroblasts
+GTEX-U3ZH-0126-SM-4DXUK	Spleen
+GTEX-RNOR-0011-R3A-SM-5SI8E	Brain - Anterior cingulate cortex (BA24)
+GTEX-1B8KE-0426-SM-7189G	Artery - Coronary
+GTEX-1QEPI-0326-SM-EVYBB	Nerve - Tibial
+GTEX-1IKK5-0011-R7b-SM-A9G39	Brain - Putamen (basal ganglia)
+GTEX-1B932-1026-SM-793CL	Heart - Left Ventricle
+GTEX-1RDX4-1826-SM-EVR54	Colon - Transverse
+GTEX-1M4P7-0011-R11b-SM-EXOIK	Brain - Cerebellar Hemisphere
+GTEX-ZTX8-0426-SM-59HLG	Stomach
+GTEX-1I1GQ-0011-R7a-SM-CJI41	Brain - Putamen (basal ganglia)
+GTEX-1JKYR-0826-SM-ARU8L	Thyroid
+GTEX-13SLW-2526-SM-62LDQ	Breast - Mammary Tissue
+GTEX-1RLM8-2226-SM-EVYD1	Breast - Mammary Tissue
